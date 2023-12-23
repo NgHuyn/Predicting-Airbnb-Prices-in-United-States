@@ -20,7 +20,7 @@ The project will utilize machine learning techniques to build an accurate and re
 We demo our model by a streamlit app, with input features such as bedroom type, number of bedrooms, amenities, reviews score,... and make predictions about the most suitable price given these parameters.
 https://py4ds-nhom4-21kdl.streamlit.app/
 
-# Contributor
+# Contributors
 | Name | 
 | -------- | 
 | Nguyễn Phúc Gia Nghi   | 
