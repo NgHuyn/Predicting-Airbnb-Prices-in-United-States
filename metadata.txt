@@ -1,0 +1,11 @@
+city asheville austin boston bozeman broward_county cambridge chicago clark_county_nv columbus dallas denver fort_worth hawaii jersey_city los_angeles nashville new_orleans new_york_city newark oakland pacific_grove portland rhode_island rochester salem_or san_diego san_francisco san_mateo_county santa_clara_county santa_cruz_county seattle twin_cities_msa washington_dc 
+id int64 
+host_response_time  within an hour  within a day  within a few hours  a few days or more
+host_is_superhost t f
+host_verifications email phone work_email photographer
+host_has_profile_pic t f
+host_identity_verified t f
+room_type  Private room  Entire home/apt  Hotel room
+amenities 
+has_availability t f
+instant_bookable f t
